@@ -1,0 +1,88 @@
+[
+  {
+    "name": "LeBron James",
+    "position": "Small Forward",
+    "team": "Los Angeles Lakers",
+    "image": "images/LebronJames.webp",
+    "score": 92
+  },
+
+  {
+    "name": "Jayson Tatum",
+    "position": "Small Forward",
+    "team": "Boston Celtics",
+    "image": "images/JaysonTatum.webp",
+    "score": 95
+  },
+  {
+    "name": "Ja Morant",
+    "position": "Point Guard",
+    "team": "Memphis Grizzlies",
+    "image": "images/Ja.webp",
+    "score": 93
+  },
+  {
+    "name": "Steph Curry",
+    "position": "Point Guard",
+    "team": "Golden State Warriors",
+    "image": "images/Steph.webp",
+    "score": 96
+  },
+  {
+    "name": "Luka Dončić",
+    "position": "Point Guard",
+    "team": "Dallas Mavericks",
+    "image": "images/Luka.webp",
+    "score": 97
+  },
+  {
+    "name": "Kevin Durant",
+    "position": "Small Forward",
+    "team": "Brooklyn Nets",
+    "image": "images/KD.webp",
+    "score": 90
+  },
+  {
+    "name": "Klay Thompson",
+    "position": "Shooting Guard",
+    "team": "Golden State Warriors",
+    "image": "images/Klay.webp",
+    "score": 84
+  },
+  {
+    "name": "Kyrie Irving",
+    "position": "Point Guard",
+    "team": "Brooklyn Nets",
+    "image": "images/Kyrie.webp",
+    "score": 85
+  },
+  {
+    "name": "Jaylen Brown",
+    "position": "Point Guard",
+    "team": "Boston Celtics",
+    "image": "images/JB.webp",
+    "score": 88
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "position": "Power Forward",
+    "team": "Milwaukee Bucks",
+    "image": "images/Giannis.webp",
+    "score": 96
+  },
+  {
+    "name": "Anthony Davis",
+    "position": "Center",
+    "team": "Los Angeles Lakers",
+    "image": "images/AD.webp",
+    "score": 85
+  },
+  {
+    "name": "Russell Westbrook",
+    "position": "Point Guard",
+    "team": "Los Angeles Lakers",
+    "image": "images/Westbrook.webp",
+    "score": 80
+  }
+]
+
